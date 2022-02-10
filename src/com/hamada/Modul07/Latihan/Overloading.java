@@ -10,8 +10,8 @@ public class Overloading {
         System.out.println("Luas segitiga dua = "+(x*y)/2);
     }
     public static void main(String [] args){
-        System.out.println("I Gede John Arissaputra");
-        System.out.println("1404505066");
+        System.out.println("Muhammad Nur Hamada");
+        System.out.println("20104064");
         System.out.println("Contoh Overloading");
         System.out.println("");
         Overloading s3;
